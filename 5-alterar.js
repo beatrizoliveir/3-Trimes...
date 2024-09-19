@@ -12,3 +12,4 @@ console.log(pessoa);
 const novaPessoa = {
     nome: "Beatriz",
 };
+// pessoa = novaPessoa;
